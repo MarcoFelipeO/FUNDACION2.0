@@ -33,10 +33,10 @@ require_once "PHP/coneccion.php";
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" >
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet" >
+    <link href="css/style.css" rel="stylesheet">
 
     <!-- Estilo  IVANNA-->
     <link href="css/estilito.css" rel="stylesheet"> 
@@ -53,17 +53,17 @@ require_once "PHP/coneccion.php";
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center me-4">
                     <small class="fa fa-map-marker-alt text-primary me-2"></small>
-                    <small class="izipizi">Av. Concha y Toro 2730, Puente Alto, Región Metropolitana</small>
+                    <small class="izipizi">Av. Concha y Toro 2730, Puente Alto, Región Metropolitana </small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <small class="far fa-clock text-primary me-2"></small>
-                    <small class="izipizi">Atención: Lunes a Viernes 9:00 a 18:00 hrs  </small>
+                    <small class="izipizi">Atención: Lunes a Viernes 9:00 a 18:00 hrs </small>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
                 <div class="h-100 d-inline-flex align-items-center me-4">
                     <small class="fa fa-phone-alt text-primary me-2"></small>
-                    <small><a href="tel:+56911111111">Si quieres llamarnos +569 1111 11XX </a> </small>
+                    <small><a href="tel:+56911111111">Si quieres llamarnos +569 1111 11XX </a> </small >
                 </div>
                 <div class="h-100 d-inline-flex align-items-center mx-n2">
                     <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
