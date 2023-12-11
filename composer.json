@@ -1,0 +1,15 @@
+{
+    "name": "ficac/fundacion2.0",
+    "autoload": {
+        "psr-4": {
+            "Ficac\\Fundacion20\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Claudio Fica",
+            "email": "claudio.fica04@inacapmail.cl"
+        }
+    ],
+    "require": {}
+}
