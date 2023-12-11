@@ -13,8 +13,8 @@ require_once "PHP/coneccion.php";
 
 <head>
     <meta charset="utf-8">
-    <title>Fundación Adopta No Compres </title>
-    <meta content="width=device-width, initial-scale=1.0" name=" viewport">
+    <title>Fundación Adopta No Compres </title >
+    <meta content="width=device-width, initial-scale=1.0" name=" viewport" >
     <meta content="" name="keywords">
     <meta content="" name="description">
 
@@ -33,10 +33,10 @@ require_once "PHP/coneccion.php";
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" >
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" >
 
     <!-- Estilo  IVANNA-->
     <link href="css/estilito.css" rel="stylesheet"> 

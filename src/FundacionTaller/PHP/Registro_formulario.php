@@ -34,7 +34,7 @@ if (empty($rut) || empty($nombres) || empty($apellido_paterno) || empty($apellid
 }
 
 //El siguiente código valida un rut con la estructura 11111111-1:
-if (!preg_match("/^[0-9]{7,8}\-[0-9]{1}$/", $rut)) {
+if (!preg_match("/^[0-9]{7,8}\-[0-9]{1}$/", $rut))  {
     echo '
         <script>
             alert("El rut ingresado no es válido");
@@ -45,7 +45,7 @@ if (!preg_match("/^[0-9]{7,8}\-[0-9]{1}$/", $rut)) {
 }
 
 // Validar formato de correo electrónico
-if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+if (!filter_var($email, FILTER_VALIDATE_EMAIL))  {
     echo '
         <script>
             alert("Ingrese un correo válido");
