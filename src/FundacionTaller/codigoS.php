@@ -12,7 +12,7 @@ session_start ();
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Nuestras Mascotas</title>
+    <title>Nuestras Mascotas</title >
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
     <link href="css/estilo.css" rel="stylesheet" />

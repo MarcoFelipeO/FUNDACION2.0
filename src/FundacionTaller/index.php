@@ -80,7 +80,7 @@ require_once "PHP/coneccion.php";
         <a href="" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
         <h3 class="m-0 texto-éxito"><img src="img/logoadopta.jpg" alt="logo" width="60%"></h3>
             <?php
-            if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
+            if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true)  {
             echo '&nbsp; Bienvenido,   ' . $_SESSION['usuario']; 
             } else {
                 // El usuario no ha iniciado sesión, mostrar un mensaje de error o redireccionar al formulario de inicio de sesión
